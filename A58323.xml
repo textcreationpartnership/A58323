@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange news from Stratton in Cornwal: or, A true relation of a cruel b[l]oody murther commited by one J.R. upon his own father, for lucre of enjoying his estate who (after he had committed the fact, and laid the knife in the bed where his father lay) called in several neighbours to witness that his father had murthered himself; bu [sic] upon search, his shirt and breast were found besprinkled with his fathers blood; upon which search he fell in a swound, and after his recovery confest the fact, and is now in goal [sic] Written by one William Reddish, who was in Stratton at the same time when the murther was committed: and written since in a letter to Mr. Pearce Manaton in Windmill-Court in the Burcherrow near Temple-Barr, by his brother, living within half a mile of the said town. With allowance.</title>
+            <author>[Reddish, William].</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58323</idno>
+            <idno type="STC">Wing R658</idno>
+            <idno type="STC">ESTC R220688</idno>
+            <idno type="EEBO-CITATION">99832084</idno>
+            <idno type="PROQUEST">99832084</idno>
+            <idno type="VID">36553</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58323)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36553)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2055:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange news from Stratton in Cornwal: or, A true relation of a cruel b[l]oody murther commited by one J.R. upon his own father, for lucre of enjoying his estate who (after he had committed the fact, and laid the knife in the bed where his father lay) called in several neighbours to witness that his father had murthered himself; bu [sic] upon search, his shirt and breast were found besprinkled with his fathers blood; upon which search he fell in a swound, and after his recovery confest the fact, and is now in goal [sic] Written by one William Reddish, who was in Stratton at the same time when the murther was committed: and written since in a letter to Mr. Pearce Manaton in Windmill-Court in the Burcherrow near Temple-Barr, by his brother, living within half a mile of the said town. With allowance.</title>
+                  <author>[Reddish, William].</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Coniers, at the sign of the Raven in Duck-Lane,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Imperfect; pages stained with slight loss of text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murder --  England --  Early works to 1800.</term>
+               <term>Parricide --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36553:1"/>
+            <p>Strange NEWS FROM <hi>Stratton</hi> in <hi>Cornwal:</hi> OR, A True Relation of a cruel B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oody Mur<g ref="char:EOLhyphen"/>ther commited by one <hi>J. R.</hi> UPON His Own FATHER, for Lucre of enjoying his Eſtate; who (after he had Committed the Fact, and laid the Knife in the Bed wherein his Father lay) called in ſeveral Neigh<g ref="char:EOLhyphen"/>bours to witneſs that his Father had Murthered himſelf; but upon ſearch, his Shirt and Breaſt were found beſprinkled with his Fathers Blood; upon which ſearch he fell in a Swound, and after his Recovery Confeſt the Fact, and is now in Goal</p>
+            <p>Written by one <hi>William Reddiſh,</hi> who was in <hi>Stratton</hi> at the ſame time when the Murther was Committed: And Written ſince in a Letter to Mr. <hi>Pearce Manaton</hi> in <hi>Wind<g ref="char:EOLhyphen"/>mill-Court</hi> in the Butcherrow near <hi>Temple-Barr,</hi> by his Bro<g ref="char:EOLhyphen"/>ther, living within half a Mile of the ſaid Town.</p>
+            <p>With Allowance.</p>
+            <p>Printed for I. Goniers, at the Sign of the Raven in <hi>Duck-Lane.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:36553:2"/>
+            <pb n="1" facs="tcp:36553:2"/>
+            <head>
+               <hi>Strange News From Stratton in Cornvval. OR;</hi> A True Relation of a Cruel, Bloody Murther, Com<g ref="char:EOLhyphen"/>mitted by one <hi>J. R.</hi> upon his own Father.</head>
+            <p>
+               <hi>IT is very remarkable that amongſt all capital crying ſins, the ſin of Murther very ſeldome, or never goes unpuniſhed: notwithſtanding the Patience and long-ſuffering of God againſt many prophain and preſumpti<g ref="char:EOLhyphen"/>ous deſpiſers of his ways and truth; yet particularly here<g ref="char:EOLhyphen"/>in he ſeems to ſhew forth his Juſtice in all Ages to the ſhameful downfall and deſtruction of ſuch as are found
+<pb n="2" facs="tcp:36553:3"/>
+guilty of this deteſtable monſtrous ſin even in this life, and they leave the memory of their names as odious as their ſavage cruel practices have been in their life time.</hi>
+            </p>
+            <p>
+               <hi>This ſhort Story affords you as true a Relation of as inhumane a Murther, as any this age hath afforded, or any future can parallel, which was as followeth.</hi>
+            </p>
+            <p>THe murthered perſon, by name <hi>William Roſs,</hi> was a very aged man, but his Wife was ſome years younger, they had but one onely Son (the cruel actor of this bloody Tragedy) neither ever had they any more <hi>children</hi> then he; they had about 16 or 18 pounds <hi>per an.</hi> in land, &amp; 'twas thought the provident old Man had money by him: this his ſon he had bred a Schollar, more then uſually men of his degree do in the Countrey, and had thoughts to have plac'd him in ſome way whereby he might be a comfort to him in his old age, but proving of a more ſtubborn nature, his deſigns were fruſtrat<g ref="char:EOLhyphen"/>ed, and he reſolv'd his Son ſhould live with him, during the remainder of his life, which by the courſe of nature could not be long; but this bloody inhumane wretch not ſatisfied with this way of living, giving his will to much indulgence after
+<pb n="3" facs="tcp:36553:3"/>
+youthful extravagancies; and thinking the time too long till he had the full poſſeſſion and ſole diſ<g ref="char:EOLhyphen"/>poſal of all himſelf.</p>
+            <p>He takes the opportunity (which by all proba<g ref="char:EOLhyphen"/>billity had been long hatching in his helliſh brain) of a very fit time for his cruel deſign: (if without ſin one may call any time fit for ſuch barbarous cruelty) his Mother being called out to the labour of one of her Neighbours, being on the 27th. of <hi>March,</hi> laſt at night, leaving none in the houſe but her aged Husband and her Son; About three of the clock in the morning he takes a great ſharp Knife, which was his Fathers own knife, and goes with as much priviſie as poſſible he could to his Fathers bed-ſide, and therewith cut his Throat, croſs the Wind-pipe, and cut ſo deep that at one ſtroak he cut the Pipe almoſt through, and holds him down in the bed until he left him uncapable of moving; and then laid the Knife by his Father in the bed, and about five a clock he ran out like a diſtracted man (it being his cuſtom to riſe early and go a<g ref="char:EOLhyphen"/>broad into the fields) to call in the neighbours, not onely where his Mother was, but ſeveral others, crying aloud as he went, <hi>My Father hath kill'd him<g ref="char:EOLhyphen"/>ſelf, My Father hath kill'd himſelf:</hi> upon which, neigh<g ref="char:EOLhyphen"/>bours
+<pb n="4" facs="tcp:36553:4"/>
+crouding in, found the poor old man wel<g ref="char:EOLhyphen"/>tering in his own blood in the bead, which amaz<g ref="char:EOLhyphen"/>ed all ſpectators, knowing him to be a civil honeſt man, and a good liver; then this vile wretch en<g ref="char:EOLhyphen"/>deavoured to lay it upon his Mother, that it muſt be done by her before ſhe went out; but all to lit<g ref="char:EOLhyphen"/>tle effect, for the Neighbours had ſtill more chari<g ref="char:EOLhyphen"/>table thoughts for her then for him: and amongſt the reſt, a Merchant in <hi>Stratton</hi> being preſent, deſi<g ref="char:EOLhyphen"/>red that he might be examined, who ſtood pe<g ref="char:EOLhyphen"/>remtorily, affirming that his Father was dead be<g ref="char:EOLhyphen"/>fore he roſe from his own bed, and as he came through his Fathers Room, he ſaw blood up<g ref="char:EOLhyphen"/>on the Sheets, and about his neck, but could not have the heart to lift up the ſheets to ſee where the wound was, but immediately ran forth to call the neighbours, &amp;c.</p>
+            <p>But ſays the Merchant Mr. <hi>B.</hi> Neighbour, not that we do miſtruſt that you are concerned in the Fact, but for our own ſatisfaction pray let us ſee your Shirt and Arms, for your hands ſeem to be clean, and we do heartily wiſh they may be ſo in reallity, and your heart too in this matter; upon which his colour chang'd, which bread more ſuſpition amongſt them, and unbut<g ref="char:EOLhyphen"/>toning himſelf, they found not onely his ſhirt,
+<pb n="5" facs="tcp:36553:4"/>
+but his breaſt all beſprinkled with his Fathers blood: How now, quoth the Merchant, thou cruel Monſter, what ſay you now? upon which he fell down in a ſwound and ſo continued for above an hour, and after his recovery he con<g ref="char:EOLhyphen"/>feſſed the whole Fact, and was immediately committed to Goal where he is to remain un<g ref="char:EOLhyphen"/>till the next Aſſizes.</p>
+            <p>
+               <pb n="6" facs="tcp:36553:5"/>I deſire that this and other precedent examples of the like nature, which are too too common in our ears in this wicked age, might at leaſt be a warning to all, eſpecially to Young men that are too apt to let their mind Rove after great things, and think they they may commit any Enormity to attain to their deſired ends, but many times it proves bitterneſs to them in the end; For a little well gotten is worth a Lordſhip of Land with a Curſe.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36553:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
